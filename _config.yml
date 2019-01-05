@@ -1,10 +1,10 @@
 # Site settings
-title: Lzw's Blog
-SEOTitle: 罗智伟的博客 | LZW Blog
+title: Lzw's Space
+SEOTitle: 罗智伟的个人主页 | LZW Space
 header-img: img/post-bg-desk.jpg
 email: 2816828876@qq.com
 description: "写作和旅游，必须有一个在路上"
-keyword: "BY, BY Blog, 罗智伟的博客, luozhiwei, 罗智伟, iOS, Apple, iPhone"
+keyword: "LZW, LZW Blog, 罗智伟的博客, luozhiwei, 罗智伟, iOS, Apple, iPhone"
 url: "http://Lzw08.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Lzw08/Lzw08.github.io.git" # you code repository
