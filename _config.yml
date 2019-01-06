@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "简书·BY",
-        href: "https://www.jianshu.com/p/7edb6b838a2e"
+        title: "简书·LZW",
+        href: "https://www.jianshu.com/u/127540421859"
     },{
         title: "Apple",
         href: "https://apple.com"
